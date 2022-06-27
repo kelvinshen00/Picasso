@@ -15,10 +15,7 @@ You'll need Git, Node.js and NPM installed on your computer. From your command l
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/UOA-CS732-SE750-Students-2022/assignment-01-wshe874.git
-
-# Go into the demo repository
-$ cd .\assignment-01-wshe874\assignment1_demo
+$ git clone https://github.com/kelvinshen00/Picasso.git
 
 # Install dependencies
 $ npm install
